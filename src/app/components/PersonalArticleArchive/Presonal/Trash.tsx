@@ -1,3 +1,3 @@
-export default function AddPost() {
-    return <>Đăng tin</>;
+export default function Trash() {
+    return <>Thùng rác</>;
 }
